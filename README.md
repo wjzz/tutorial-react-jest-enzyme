@@ -4,8 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is the reference repo for the [jest-enzyme-react tutorial](https://github.com/wjzz/dev-notes/blob/master/jest-enzyme-starter.md) I wrote.
 
-Note that I've been using both yarn and npm, so I have two `.lock` files.
-
 ## Available Scripts
 
 In the project directory, you can run:
