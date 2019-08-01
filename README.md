@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the reference repo for the [jest-enzyme-react tutorial](https://github.com/wjzz/dev-notes/blob/master/jest-enzyme-starter.md) I wrote.
+
 ## Available Scripts
 
 In the project directory, you can run:
